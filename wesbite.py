@@ -21,4 +21,6 @@ st.title('random one-of-my-github-projects generator')
 if st.button('generate'):
     st.write(float(random_github_project))
 else:
-    st.empty
+    st.write('---')
+
+

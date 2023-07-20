@@ -19,7 +19,7 @@ st.title('random one-of-my-github-projects generator')
 
 
 if st.button('generate'):
-    st.write(str(random_github_project))
+    st.write(str(random_github_project_real))
 else:
     st.write('---')
 
